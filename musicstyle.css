@@ -1,0 +1,51 @@
+body{
+	background-color:#E59866;
+	font-family:Ink Free;
+}
+#container{
+	background-color:#BB8FCE;
+	width:1800px;
+	height:1600px;
+	float:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+#header{
+	background-color:#76D7C4;
+	color:yellow;
+	text-align:center;
+	float:center;
+	font-size:24;
+	padding:10px;
+	font-family:Broadway;
+	height:150px;
+}
+	
+#main{
+	font-size:30;
+	font-family:rockwell;
+	text-align:center;
+	width:1800px;
+	margin-right: 86;
+}
+#nav{
+	width:1780px;
+	font-size:22;
+	color:blue;
+	font-family:britannic bold;
+	padding:10px;
+	float:center;
+	text-align:center;
+	background-color:#F9E79F;	
+}
+#nav ul{
+	list-style-type:none;
+	padding:0;
+}
+#footer{
+	width:1800px;
+	font-family:serif sam;
+	height:200px;
+	font-size:28;
+	text-align:center;
+}
